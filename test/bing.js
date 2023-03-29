@@ -13,4 +13,4 @@ const addTwoNumbers = (l1, l2) => {
 
         carry = Math.floor((l1Val + l2Val + carry) / 10);
     }
-}
+};
